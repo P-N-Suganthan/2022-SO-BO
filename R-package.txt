@@ -1,0 +1,14 @@
+Subject: CEC 2022 R bindings
+
+Dear P. N. Suganthan, 
+
+I have extended {cecs} package with an interface from R to CEC 2022 SO-BO functions written in C. 
+The package should be available on CRAN in a few days. Otherwise, it may be installed via {devtools} package
+directly from GitHub.
+
+https://github.com/ewarchul/cecs
+
+If you think it is valid and useful, feel free to utilize it. 
+
+Best Regards
+Eryk Warchulski
